@@ -9,7 +9,7 @@ with open("README.md", "r") as f:
 setup(
     name="servussimplifytext",
     packages=["servussimplifytext"],
-    version="0.2",
+    version="0.3",
     license="GPL3",
     description="Python3 module to simplify text removing unnecesary symbols.",
     long_description=readme,
@@ -18,7 +18,7 @@ setup(
     author_email="bubbledoloresuruguay2@gmail.com",
     url="https://github.com/carlosplanchon/servussimplifytext",
     download_url="https://github.com/carlosplanchon/"
-        "servussimplifytext/archive/v0.2.tar.gz",
+        "servussimplifytext/archive/v0.3.tar.gz",
     keywords=["simplify", "text", "regex"],
     classifiers=[
         "Intended Audience :: Developers",
